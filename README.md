@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech, running, and travelling
 - 🌱 I’m currently learning how to build stuff from scratch
 - 💞️ I’m looking to collaborate on whatever will make people's lifes easier for real
-- 📫 How to reach me: e-mail, DM, or linkedin.com/carolinapinsdorf
+- 📫 How to reach me: e-mail, DM, or [linkedin.com/carolinapinsdorf](https://www.linkedin.com/in/carolinapinsdorf/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am also a SFX makeup artist 
 
