@@ -31,9 +31,10 @@
 
 ### Extra work time
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-- ₿ Hard Bitcoiner 📖 Mastering Bitcoin
+- ₿ Hard Bitcoiner
+- 📖 Mastering Bitcoin, programming the Open Blockchain - Andreas M. Antonopoulos & David A. Harding
 - Studying to contribute to Bitcoin's open source network
-- ♀️ Satoshi is female 
+- ♀️ Satoshi is female ✊🏽
 
 <!---
 carolpinsdorf/carolpinsdorf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
