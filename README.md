@@ -1,7 +1,8 @@
 ### 👋 Hi, I’m @carolpinsdorf
 - 🇧🇷 Brasileira
 - 👀 I’m interested in tech, running, and travelling
-- 💞️ I’m looking to collaborate with technologies that will make people's lifes easier 
+- 💞️ I’m looking to collaborate with technologies that will make people's lifes easier
+- 👁️🐝Ⓜ️ IBM Early Associate
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am also a SFX makeup artist 
 
